@@ -44,5 +44,5 @@ The dataset used in this project is from [Diabetes dataset](https://www.kaggle.c
 
 1. Clone the repository to your local machine:
    ```bash
-git clone https://github.com/EchoScripter/Diabetes_analysis.git
+   git clone https://github.com/EchoScripter/Diabetes_analysis.git
 
