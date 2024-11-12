@@ -20,7 +20,7 @@ The project includes the following steps:
 
 ## Dataset
 
-The dataset used in this project is from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes+Database) and consists of medical records for female patients from the Pima Indian heritage. The data contains the following columns:
+The dataset used in this project is from [Diabetes dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set) and consists of medical records for female patients from the Pima Indian heritage. The data contains the following columns:
 - **Pregnancies**: Number of pregnancies.
 - **Glucose**: Plasma glucose concentration after 2 hours in an oral glucose tolerance test.
 - **BloodPressure**: Diastolic blood pressure (mm Hg).
