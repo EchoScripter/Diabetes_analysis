@@ -44,5 +44,5 @@ The dataset used in this project is from [UCI Machine Learning Repository](https
 
 1. Clone the repository to your local machine:
    ```bash
-  git clone https://github.com/yourusername/Diabetes_analysis.git
+git clone https://github.com/EchoScripter/Diabetes_analysis.git
 
